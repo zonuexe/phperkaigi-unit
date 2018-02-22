@@ -9,5 +9,16 @@
             "email": "tadsan@zonu.me"
         }
     ],
-    "require": {}
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "autoload-dev": {
+        "files": ["tests/target/money_functions.php"],
+        "classmap": ["tests/"]
+    },
+    "require": {
+    },
+    "require-dev": {
+        "psy/psysh": "^0.8.17"
+    }
 }
