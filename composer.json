@@ -1,0 +1,13 @@
+{
+    "name": "zonuexe/phperkaigi-unit",
+    "description": "Testing framework for you.",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "USAMI Kenta",
+            "email": "tadsan@zonu.me"
+        }
+    ],
+    "require": {}
+}
